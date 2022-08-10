@@ -36,7 +36,7 @@ This project taught me how to use SVG files and make them look relevant to the c
 ## Screenshot 
 
 
-[Live Link](https://majestic-granita-650443.netlify.app/)
+[Live Link](https://dancing-nougat-0cde59.netlify.app/)
 
 ![What's Trend In](./Capture.PNG)
 
